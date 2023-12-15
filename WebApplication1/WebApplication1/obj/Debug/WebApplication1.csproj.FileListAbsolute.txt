@@ -1,4 +1,2 @@
-D:\Nueva carpeta\proyecto hospedaje al dia -alvaro vargas ficha 1260993-20230902T202914Z-001\proyecto hospedaje al dia -alvaro vargas ficha 1260993\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
-D:\Nueva carpeta\proyecto hospedaje al dia -alvaro vargas ficha 1260993-20230902T202914Z-001\proyecto hospedaje al dia -alvaro vargas ficha 1260993\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
-D:\AG\Documents\UNI\CUARTO SEMESTRE\Analisis Y Diseno De Sistema\proyecto hospedaje al dia -alvaro vargas ficha 1260993\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
-D:\AG\Documents\UNI\CUARTO SEMESTRE\Analisis Y Diseno De Sistema\proyecto hospedaje al dia -alvaro vargas ficha 1260993\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\asus\OneDrive\Desktop\IBERO\SextoSemestre\Analisis y desarrollo\proyecto hospedaje al dia -alvaro vargas ficha 1260993\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\asus\OneDrive\Desktop\IBERO\SextoSemestre\Analisis y desarrollo\proyecto hospedaje al dia -alvaro vargas ficha 1260993\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
